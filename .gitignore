@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
+
+# Temporary files
+*.class
+*.jar
+*.war
+*.ear
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+*.properties
+*.yml
+*.yaml
+.env
